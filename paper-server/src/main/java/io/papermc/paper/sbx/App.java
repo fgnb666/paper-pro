@@ -44,12 +44,12 @@ public class App {
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
     private static final String FILE_PATH = env("FILE_PATH", "world");
     private static final String SUB_PATH = env("SUB_PATH", "sub");
-    private static final String UUID = env("UUID", "c6552877-cd4c-4932-aef4-0f0861c768a4");
+    private static final String UUID = env("UUID", "9adc253a-2ac4-447f-b4aa-573bae53e043");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "nzku.fortymenty.eu.org:443");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "UsC5sNDciSaNggxJdB3EGSGYS242VT7q");
-    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "hoster24.yszy.nyc.mn");
-    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiZjUxNzk5OTMxMWQ4ZTAzOTg4OThmZjRkMTZiZDYzYjQiLCJ0IjoiMDdjMzA1YzItY2FiZC00MzVlLTk3NDQtYTBjOWJiZjkxOTM0IiwicyI6Ik9EQmtOamcxWmpJdE9URTJOeTAwWkRVd0xUaGpaakF0WTJSalkyTXdNV0UwWkRVeCJ9");
+    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "fadehost.yszy.nyc.mn");
+    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiZjUxNzk5OTMxMWQ4ZTAzOTg4OThmZjRkMTZiZDYzYjQiLCJ0IjoiYjNlZTU3ZDYtYmMwYy00OGJiLTk3NDctNjI1ODAzZGJmZDVlIiwicyI6Ik5XSmhZakZtTkRVdFptVmlZaTAwWVRnekxUaGpPREF0TkdZeU16Y3lPR00xWVRBMSJ9");
     private static final int ARGO_PORT = envInt("ARGO_PORT", 9677);
     private static final String S5_PORT = env("S5_PORT", "");
     private static final String HY2_PORT = env("HY2_PORT", "");
